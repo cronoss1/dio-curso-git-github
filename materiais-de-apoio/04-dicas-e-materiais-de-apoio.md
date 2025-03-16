@@ -7,7 +7,7 @@
 ## Dicas e Materiais de Apoio
 
 ### Git Aliases: Adicionando apelidos para os comandos do Git
-Exemplo: Criando um alias para o comando `status`:  
+Exemplos: Criando um alias para o comando `status`:  
 ```bash
 $ git config --global alias.st status
 ```  
